@@ -21,10 +21,10 @@ Extract the program to a directory of your choice and run the install.bat progra
 This program is written and maintainted by Hugo Tunius (hugotunius.se)
 
 ## 4.1 Credits
-Freetype http://www.freetype.org 	- Used for text rendering
-OpenCL   http://www.khronos.org/opencl/ - Opencl
-Opengl    http://www.opengl.org/  	- Used for drawing
-Glew	 http://glew.sourceforge.net/ 	- Windows bindings for new opengl versions
++ Freetype http://www.freetype.org 	- Used for text rendering
++ OpenCL   http://www.khronos.org/opencl/ - Opencl
++ Opengl    http://www.opengl.org/  	- Used for drawing
++ Glew	 http://glew.sourceforge.net/ 	- Windows bindings for new opengl versions
 
 ## 5. Build
 This program has succefully been built with visual studio 2010 and 2011
